@@ -1,0 +1,18 @@
+{
+  "name": "ib_numberguessing_game-proj",
+  "version": "1.0.0",
+  "description": "ib_numberguessing_game is typescript project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "farhat",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.0.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
